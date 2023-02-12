@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-angular-b5182": {
+      "hosting": {
+        "firebase-angular": [
+          "fir-angular-b5182"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-angular-b5182"
+  }
+}
